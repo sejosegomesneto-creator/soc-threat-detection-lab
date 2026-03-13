@@ -1,0 +1,5 @@
+User login successful
+Process started: powershell.exe
+Network request using curl
+File opened normally
+Command executed: whoami
